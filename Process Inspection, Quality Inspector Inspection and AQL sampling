@@ -8,3 +8,13 @@ High-Speed Camera + Vision AI: Capture every molded/form part and run AI-based d
 3D Scanners: For form validation (e.g., candle molds with uniformity).
 
 Tools: NVIDIA DeepStream SDK, OpenCV + YOLOv8 for real-time object defect detection.
+
+Process Inspection (Post-Casting/Forming)
+Goal: Verify quality of formed product.
+
+AI Automation Solution:
+
+Thermal Imaging + AI: Detect imperfections, cracks, or internal faults.
+
+AI-based Quality Score: Aggregate multi-sensor data to give each unit a quality score.
+
