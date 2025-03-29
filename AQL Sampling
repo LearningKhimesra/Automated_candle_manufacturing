@@ -1,0 +1,10 @@
+AQL Sampling Before Shipping
+Goal: Final inspection based on acceptable quality levels.
+
+AI Automation Solution:
+
+Randomized AI-based Sampling Algorithm: Select samples intelligently based on past defect trends.
+
+Vision + ML: Run the final check on these samples and log issues with severity scoring.
+
+Dashboard: Create a central AI dashboard for QA supervisors using Power BI or Dash (Plotly).
