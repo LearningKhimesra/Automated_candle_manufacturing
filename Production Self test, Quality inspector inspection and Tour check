@@ -1,0 +1,10 @@
+ Production Self-Test & Quality Inspector Checks
+Goal: Monitor quality during mixing/melting.
+
+AI Automation Solution:
+
+Sensor Integration + Anomaly Detection: Add temperature, viscosity, and time sensors with ML models to detect outliers.
+
+Edge AI: Use real-time models on Raspberry Pi/NVIDIA Jetson to evaluate in production lines.
+
+Tools: AWS Lookout for Equipment, Azure Edge AI, TensorFlow Lite.
