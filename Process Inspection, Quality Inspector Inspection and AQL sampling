@@ -1,0 +1,10 @@
+ Casting/Forming/Cladding Inspection
+Goal: Check for shape accuracy, air bubbles, uniformity.
+
+AI Automation Solution:
+
+High-Speed Camera + Vision AI: Capture every molded/form part and run AI-based defect detection.
+
+3D Scanners: For form validation (e.g., candle molds with uniformity).
+
+Tools: NVIDIA DeepStream SDK, OpenCV + YOLOv8 for real-time object defect detection.
