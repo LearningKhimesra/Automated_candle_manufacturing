@@ -1,8 +1,10 @@
-Process Inspection (Post-Casting/Forming)
-Goal: Verify quality of formed product.
+Packing Tour Check & Whole Product Inspection
+Goal: Ensure proper packing, correct labeling, complete set.
 
 AI Automation Solution:
 
-Thermal Imaging + AI: Detect imperfections, cracks, or internal faults.
+Vision + OCR: Validate printed labels, correct barcodes, count items.
 
-AI-based Quality Score: Aggregate multi-sensor data to give each unit a quality score.
+AI-Powered Robotics: Use robotic arms with vision systems to check orientation and alignment.
+
+Tools: Google Cloud Vision API, OpenCV, Zebra OCR Engines.
