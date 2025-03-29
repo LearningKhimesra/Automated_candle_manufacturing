@@ -1,0 +1,10 @@
+Raw Material Inspection
+Goal: Check for impurities, correct types, and quality.
+
+AI Automation Solution:
+
+Computer Vision + Spectroscopy: Use cameras and hyperspectral imaging to verify color, texture, and chemical properties.
+
+ML Model: Train a model on known “good” vs. “bad” raw materials.
+
+Toolkits: OpenCV, TensorFlow, PyTorch, or AWS Lookout for Vision.
